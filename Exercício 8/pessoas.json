@@ -1,0 +1,18 @@
+
+[
+    {
+        "nome": "Guilherme",
+        "genero": "Homem cis",
+        "idade": 26
+    },
+    {
+        "nome": "Helena",
+        "genero": "Mulher cis",
+        "idade": 25
+    },
+    {
+        "nome": "Arley",
+        "genero": "Homem cis",
+        "idade": 24
+    }
+]
