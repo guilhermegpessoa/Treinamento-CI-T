@@ -1,6 +1,7 @@
 <?php
 
-require 'model/biblioteca.php';
+require 'model/livro.php';
+require 'model/pessoa.php';
 
 use Biblioteca\Pessoa;
 use Biblioteca\Livro;
